@@ -4,7 +4,7 @@ Honestly, I made this for my cousin who is about to apply for college. I'm curre
 ### SAT College Calculator
 The main idea behind this is to use the SAT Score that you've gotten and match you to colleges based on your SAT score. This will take into account the 25 percentile and 75 percentile. It'll show you what percentile you are for a specific college and whether the college is safety, match, or reach. You can also filter it out by the state of the college or view only T20s. 
 
-##### Steps
+### Steps
 1. Use Selenium and/or Beautiful Soup to get the SAT data on all the colleges
 	1. Alternatively, you can just get a Kaggle dataset or any dataset which showcases this
 2. Have the user input their SAT Score into a textbox within the website you create 
