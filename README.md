@@ -11,11 +11,3 @@ The main idea behind this is to use the SAT Score that you've gotten and match y
 3. Output Safeties, Matches, and Reaches to different columns or buttons 
 	1. Make sure that if a student is extremely out of range (meaning they have a 1300 and they are trying to get into Columbia whose 25 percentile may be a  1450, do not output it at all)
 	2. Additionally, make sure that you create a note saying that it doesn't reflect the entire story as your demographics, essays, ECs can make it more possible for you to get in. I am only checking based on the criteria for them to look at your application
-
-##### How To Use
-If you have python installed, make sure to install all dependencies needed. 
-Run the following command to get all the dependencies you need within the project's directory:
-''' 
-pip install requirements.txt
-'''
-
